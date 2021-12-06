@@ -2,18 +2,18 @@ En este ensayo analizaré dos ejemplos de hibridación moderna poniéndome las g
 
 ## 1- Selfiecity 
 
-Selfiecity es un proyecto de investigación a partir de selfies de Instagram correspondientes a cinco distintas ciudades: Bangkok, Berlín, Moscú, New York y Sao Paulo (640 fotos por ciudad) y utilizando una combinación de métodos teóricos, artísticos y cuantitativos nos revela patrones interesantes y distintivos de los selfies según la ciudad a la que pertenecen, así por ejemplo podemos concluir: 
+Selfiecity es un proyecto de investigación a partir de selfies de Instagram correspondientes a cinco distintas ciudades: Bangkok, Berlín, Moscú, New York y Sao Paulo. Con un total de 640 fotos por ciudad y utilizando una combinación de métodos teóricos, artísticos y cuantitativos nos revela patrones interesantes y distintivos de los selfies según la ciudad a la que pertenecen, así por ejemplo podemos concluir: 
 
-Que en Moscú existe la diferencia más pronunciada entre selfies que se publican por género, siendo las mujeres las que más fotos suben. 
+> Que en Moscú existe la diferencia más pronunciada entre selfies que se publican por género, siendo las mujeres las que más fotos suben. 
 
 ![This is an image](/src/selfiecity-data-02.jpg)
 
-Que en Berlín las mujeres en los selfies se muestran más sonrientes que en las demás ciudades analizadas.
+> Que en Berlín las mujeres en los selfies se muestran más sonrientes que en las demás ciudades analizadas.
 
 ![This is an image](/src/selfiecity-data-01.jpg)
 
-El proceso para la recopilación de las fotos empieza con una selección random de 20 mil a 30 a mil fotos de Instagram por ciudad. Estas fotos pasan inicialmente por un proceso de intervención humana con la participación de trabajadores de Mechanical Turk de Amazon, plataforma para tareas simples que requieren cierto nivel de inteligencia que una máquina no puede hacer (...), estos trabajadores tras descartar las fotos que no sean selfies individuales, pasan el lote a otros más calificados quienes estiman el género y edad de los fotografiados.
-Finalmente los selfies se someten a un análisis facial automático, que proporciona estimaciones algorítmicas de las posiciones de los ojos, la nariz y la boca, los grados de las diferentes expresiones emocionales, etc.
+El proceso para la recopilación de las fotos empieza con una selección random de 20 mil a 30 a mil fotos de Instagram por ciudad. Estas fotos pasan inicialmente por un proceso de intervención humana con la participación de trabajadores de Mechanical Turk de Amazon, plataforma para tareas simples que requieren cierto nivel de inteligencia que una máquina no puede hacer ("¿Qué es Amazon Mechanical Turk?", 2021), estos trabajadores tras descartar las fotos que no sean selfies individuales, pasan el lote a otros más calificados quienes estiman el género y edad de los fotografiados.
+Finalmente los selfies se someten a un análisis facial automático, que proporciona estimaciones algorítmicas de la posición de los ojos, la nariz y la boca, el grado de las distintas expresiones emocionales, etc.
 
 ![This is an image](/src/selfiecity-process.jpg)
 
@@ -27,4 +27,6 @@ Si bien este proceso de recolección y análisis de datos es curioso por compren
 
 ### Referencias
 
-Manovich, L. (2013). **El software toma el mando** (Primera edición digital: diciembre 2013). Editorial UOC.
+* Manovich, L. (2013). **El software toma el mando** (Primera edición digital: diciembre 2013). Editorial UOC.
+* **¿Qué es Amazon Mechanical Turk?**. (2021). Recuperado de AWS website: https://aws.amazon.com/es/premiumsupport/knowledge-center/mechanical-turk-use-cases/ 
+* **Selfiecity. (2021)**. Recuperado de: http://selfiecity.net/
