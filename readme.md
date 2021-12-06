@@ -6,16 +6,16 @@ Selfiecity es un proyecto de investigación a partir de selfies de Instagram cor
 
 > Que en Moscú existe la diferencia más pronunciada entre selfies que se publican por género, siendo las mujeres las que más fotos suben. 
 
-![This is an image](/src/selfiecity-data-02.jpg)
+<img src="/src/selfiecity-data-02.jpg" width=600>
 
 > Que en Berlín las mujeres en los selfies se muestran más sonrientes que en las demás ciudades analizadas.
 
-![This is an image](/src/selfiecity-data-01.jpg)
+<img src="/src/selfiecity-data-01.jpg" width=600>
 
 El proceso para la recopilación de las fotos empieza con una selección random de 20 mil a 30 a mil fotos de Instagram por ciudad. Estas fotos pasan inicialmente por un proceso de intervención humana con la participación de trabajadores de Mechanical Turk de Amazon, plataforma para tareas simples que requieren cierto nivel de inteligencia que una máquina no puede hacer ("¿Qué es Amazon Mechanical Turk?", 2021), estos trabajadores tras descartar las fotos que no sean selfies individuales, pasan el lote a otros más calificados quienes estiman el género y edad de los fotografiados.
 Finalmente los selfies se someten a un análisis facial automático, que proporciona estimaciones algorítmicas de la posición de los ojos, la nariz y la boca, el grado de las distintas expresiones emocionales, etc.
 
-![This is an image](/src/selfiecity-process.jpg)
+<img src="/src/selfiecity-process.jpg" width=600>
 
 Si bien este proceso de recolección y análisis de datos es curioso por comprender de fases diferenciadas donde son necesarias inicialmente la inteligencia humana para los datos de género, edad y después la fase de inteligencia artificial para los datos faciales y expresivos.
 
