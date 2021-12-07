@@ -17,9 +17,15 @@ Finalmente los selfies se someten a un análisis facial automático, que proporc
 
 <img src="/src/selfiecity-process.jpg" width=600>
 
-Si bien este proceso de recolección y análisis de datos es curioso por comprender de fases diferenciadas donde son necesarias inicialmente la inteligencia humana para los datos de género, edad y después la fase de inteligencia artificial para los datos faciales y expresivos.
+Si bien este proceso de recolección y análisis de datos es curioso por comprender de fases diferenciadas donde son necesarias inicialmente la inteligencia humana para los datos de género, edad y después la fase de inteligencia artificial para los datos faciales y expresivos. El caso de hibridación lo encontramos en la manera en que son representados estos datos resultantes, inicialmente nos presenta cada país como una transición de sus fotos alineadas de manera que coinciden en posición los rostros de selfies que la conforman, consiguen esta composición ajustada mediante su software de reconocimiento facial. 
 
-...
+Se trata de un medio híbrido que combina y reconfigura formatos de medios conocidos e interfaces de medios para ofrecer nuevos tipos de representación híbridas (Manovich, 2014). En este caso está combinando la fotografía, los datos posición donde fueron realizadas y el reconocimiento facial para ofrecernos una nueva experiencia donde no sólo nos muestra un transición de fotos en formato vídeo, nos está transmitiendo más información permitiéndonos encontrar el patrón que siguen los selfies de una determinada ciudad. Por ello apenas da tiempo para visualizar cada imagen por separado, este nuevo medio no intenta representar gente fotografiada, sino que busca representar datos derivados del conjunto de elementos.
+
+> Representación de los selfies de Sao Paulo
+
+<a href="http://d25rsf93iwlmgu.cloudfront.net/video/sao-paulo.m4v" target="_blank">
+<img src="/src/selfiecity-saopaulo.gif" width=600>
+</a>
 
 ## 2- Timeline
 
