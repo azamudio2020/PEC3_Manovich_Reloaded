@@ -45,4 +45,7 @@ La serie Timeline nos adentra en la historia de Dee, una estudiante de secundari
 
 * Manovich, L. (2013). **El software toma el mando** (Primera edición digital: diciembre 2013). Editorial UOC.
 * **¿Qué es Amazon Mechanical Turk?**. (2021). Recuperado de AWS website: https://aws.amazon.com/es/premiumsupport/knowledge-center/mechanical-turk-use-cases/ 
+
 * **Selfiecity. (2021)**. Recuperado de: http://selfiecity.net/
+
+* **Timeline. (2021)**. Recuperado de: https://video.eko.com/timeline-/
