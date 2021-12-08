@@ -17,7 +17,7 @@ Selfiecity es un proyecto de investigación a partir de selfies de Instagram cor
 <img src="/src/selfiecity-data-01.jpg" width=600>
 
 El proceso para la recopilación de las fotos empieza con una selección random de 20 mil a 30 a mil fotos de Instagram por ciudad. Estas fotos pasan inicialmente por un proceso de intervención humana con la participación de trabajadores de Mechanical Turk de Amazon, plataforma para tareas simples que requieren cierto nivel de inteligencia que una máquina no puede hacer ("¿Qué es Amazon Mechanical Turk?", 2021), estos trabajadores tras descartar las fotos que no sean selfies individuales, pasan el lote a otros más calificados quienes estiman el género y edad de los fotografiados.
-Finalmente los selfies se someten a un análisis facial automático, que proporciona estimaciones algorítmicas de la posición de los ojos, la nariz y la boca, el grado de las distintas expresiones emocionales, etc.
+Finalmente los selfies se someten a un análisis facial automático, que proporciona estimaciones algorítmicas de la posición de los ojos, la nariz y la boca, el grado de las distintas expresiones emocionales, etc. (http://selfiecity.net)
 
 <img src="/src/selfiecity-process.jpg" width=600>
 
@@ -33,7 +33,7 @@ Se trata de un medio híbrido que combina y reconfigura formatos de medios conoc
 
 ## 2- Timeline
 
-Eko es una productora que ofrece un abanico variado de series interactivas e inventa una forma completamente nueva de entretenimiento. Es considerada la primera plataforma de vídeo interactivo del mundo. Sus programas permiten a los espectadores convertirse en participantes, brindándoles una capacidad sin precedentes para controlar e influir en las historias a medida que se desarrollan.
+Eko es una productora que ofrece un abanico variado de series interactivas e inventa una forma completamente nueva de entretenimiento. Es considerada la primera plataforma de vídeo interactivo del mundo. Sus programas permiten a los espectadores convertirse en participantes, brindándoles una capacidad sin precedentes para controlar e influir en las historias a medida que se desarrollan. (http://eko.com)
 
 La serie Timeline nos adentra en la historia de Dee, una estudiante de secundaria cuyo teléfono misteriosamente adquiere la capacidad de predecir el futuro permitiéndole visualizar publicaciones que comentan los sucesos antes de que ocurran. 
 
