@@ -27,7 +27,7 @@ Se trata de un medio híbrido que combina y reconfigura formatos de medios conoc
 
 > Representación de los selfies de Sao Paulo
 
-<a href="http://d25rsf93iwlmgu.cloudfront.net/video/sao-paulo.m4v" target="_blank">
+<a href="http://www.selfiecity.net" target="_blank">
 <img src="/src/selfiecity-saopaulo.gif" width=600>
 </a>
 
