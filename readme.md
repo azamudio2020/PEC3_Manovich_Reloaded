@@ -47,6 +47,16 @@ Durante las secuencias nos muestra sus conflictos internos, como su indecisión 
 
 <img src="/src/timeline-02.gif" width=600>
 
+Por lo tanto, consideraremos este nuevo medio como híbrido entre cine e interacción a través de elecciones del usuario. Por tanto ofrece una experiencia más amplia que la de visualizar un vídeo convencional, nos atrapa por hacernos responsables del desarrollo de la historia, es interesante observar cómo con este nuevo medio surgido de la hibridez como usuarios adoptamos más implicación, al volvernos protagonistas es más probable que nos adentremos más a fondo en la trama y por tanto nos focalizamos con mayor nivel de recepción hacia sus contenidos.
+
+Este medio híbrido se centra en ofrecernos un nueva manera de navegar e interaccionar con un formato de medios ya existentes. En este caso el tipo de medio en sí ni se modifica ni se combina con otros, sino que la hibridación se produce en la interfaz de usuario y las herramientas que facilita el proyecto, servicio o aplicación para trabajar con ese tipo de medios. (Manovich, 2014)
+
+Para controlar esta nueva especie de medio la interfaz para la reproducción del vídeo adquiere una nueva estética, en lugar de avanzar o retroceder por medidas de tiempo, lo hacemos entre los puntos de la historia en que se tomaron decisiones. De esta manera si no nos gustan las consescuencias de alguna opción elegida, podemos retroceder y alterar el curso de la historia.
+
+> Interacción para retroceder y explorar otras alternativas.
+
+<img src="/src/timeline-03.gif" width=600>
+
 ### Referencias
 
 * **Eko. (2021)**. Recuperado de: https://eko.com/
