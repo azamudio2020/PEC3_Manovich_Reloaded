@@ -33,7 +33,13 @@ Se trata de un medio híbrido que combina y reconfigura formatos de medios conoc
 
 ## 2- Timeline
 
-...
+Eko es una productora que ofrece un abanico variado de series interactivas e inventa una forma completamente nueva de entretenimiento. Es considerada la primera plataforma de vídeo interactivo del mundo. Sus programas permiten a los espectadores convertirse en participantes, brindándoles una capacidad sin precedentes para controlar e influir en las historias a medida que se desarrollan.
+
+La serie Timeline nos adentra en la historia de Dee, una estudiante de secundaria cuyo teléfono misteriosamente adquiere la capacidad de predecir el futuro permitiéndole visualizar publicaciones que comentan los sucesos antes de que ocurran. 
+
+> Dee leyendo las futuras publicaciones de compañeros de secundaria.
+
+<img src="/src/timeline-01.gif" width=600>
 
 ### Referencias
 
