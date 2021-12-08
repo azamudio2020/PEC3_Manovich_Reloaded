@@ -10,11 +10,11 @@ Selfiecity es un proyecto de investigación a partir de selfies de Instagram cor
 
 <img src="/src/selfiecity-data-02.jpg" width=600>
 
-> Que en Moscú existe la diferencia más pronunciada entre selfies que se publican por género, siendo las mujeres las que más fotos suben. 
+> ↑ Que en Moscú existe la diferencia más pronunciada entre selfies que se publican por género, siendo las mujeres las que más fotos suben. 
 
 <img src="/src/selfiecity-data-01.jpg" width=600>
 
-> Que en Berlín las mujeres en los selfies se muestran más sonrientes que en las demás ciudades analizadas.
+> ↑ Que en Berlín las mujeres en los selfies se muestran más sonrientes que en las demás ciudades analizadas.
 
 
 El proceso para la recopilación de las fotos empieza con una selección random de 20 mil a 30 a mil fotos de Instagram por ciudad. Estas fotos pasan inicialmente por un proceso de intervención humana con la participación de trabajadores de Mechanical Turk de Amazon, plataforma para tareas simples que requieren cierto nivel de inteligencia que una máquina no puede hacer ("¿Qué es Amazon Mechanical Turk?", 2021), estos trabajadores tras descartar las fotos que no sean selfies individuales, pasan el lote a otros más calificados quienes estiman el género y edad de los fotografiados.
@@ -30,7 +30,8 @@ Se trata de un medio híbrido que combina y reconfigura formatos de medios conoc
 <img src="/src/selfiecity-saopaulo.gif" width=600>
 </a>
 
-> Representación de los selfies de Sao Paulo
+
+> ↑ Representación de los selfies de Sao Paulo
 
 
 ## 2- Timeline
@@ -41,13 +42,13 @@ La serie Timeline nos adentra en la historia de Dee, una estudiante de secundari
 
 <img src="/src/timeline-01.gif" width=600>
 
-> Dee leyendo las futuras publicaciones de compañeros de secundaria.
+> ↑ Dee leyendo las futuras publicaciones de compañeros de secundaria.
 
 Durante las secuencias nos muestra sus conflictos internos, como su indecisión para acercarse al chico que le atrae o que se siente intrigada por el rechazo que le demuestra una antigua amiga, dándonos de esta manera la libertad para intervenir ayudándola en su toma de decisiones. 
 
 <img src="/src/timeline-02.gif" width=600>
 
-> Interfaz de la interacción para elegir opciones.
+> ↑ Interfaz de la interacción para elegir opciones.
 
 Por lo tanto, consideraremos este nuevo medio como híbrido entre cine e interacción a través de elecciones del usuario. Por tanto ofrece una experiencia más amplia que la de visualizar un vídeo convencional, nos atrapa por hacernos responsables del desarrollo de la historia, es interesante observar cómo con este nuevo medio surgido de la hibridez como usuarios adoptamos más implicación, al volvernos protagonistas es más probable que nos adentremos más a fondo en la trama y por tanto nos focalizamos con mayor nivel de recepción hacia sus contenidos.
 
@@ -57,7 +58,7 @@ Para controlar esta nueva especie de medio la interfaz para la reproducción del
 
 <img src="/src/timeline-03.gif" width=600>
 
-> Interacción para retroceder y explorar otras alternativas.
+> ↑ Interacción para retroceder y explorar otras alternativas.
 
 
 
