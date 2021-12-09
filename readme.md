@@ -54,7 +54,11 @@ Por lo tanto, consideraremos este nuevo medio como híbrido entre cine e interac
 
 Este medio híbrido se centra en ofrecernos un nueva manera de navegar e interaccionar con un formato de medios ya existentes. En este caso el tipo de medio en sí ni se modifica ni se combina con otros, sino que la hibridación se produce en la interfaz de usuario y las herramientas que facilita el proyecto, servicio o aplicación para trabajar con ese tipo de medios. (Manovich, 2014)
 
-Para controlar esta nueva especie de medio la interfaz para la reproducción del vídeo adquiere una nueva estética, en lugar de avanzar o retroceder por medidas de tiempo, lo hacemos entre los puntos de la historia en que se tomaron decisiones. De esta manera si no nos gustan las consescuencias de alguna opción elegida, podemos retroceder y alterar el curso de la historia.
+Para controlar esta nueva especie de medio la interfaz para la reproducción del vídeo adquiere una nueva estética, en lugar de avanzar o retroceder por medidas de tiempo, lo hacemos entre los puntos de la historia en que se tomaron las decisiones. De esta manera si no nos gustan las consescuencias de alguna opción elegida, podemos retroceder para alternar de opción y cambiar así el curso de la historia. 
+
+A diferencia de una obra cinematográfica, este nuevo tipo de medio híbrido no sigue un orden estático de representación, sino que nos presenta un contenido variable. Es la principal propiedad que gana al haberse hibridado con otro medio como es la interacción.
+Debido a esta estructura común, ahora podemos emplear conjuntamente diversas técnicas que en el pasado eran exclusivas de un medio específico (Manovich, 2014). Gracias a manejar el vídeo como estructura de datos es posible su manipulación a través de algoritmos de programación. En este caso, los datos de este medio almacenan escenas cuya reproducción está condicionada por las opciones que elijamos. Por tanto nos brinda una experiencia de cine cuya trama no está definida, la compondremos nosotros según nuestro criterio. Lo que a su vez significa una experiencia con mayor implicación del usuario, abandonando su rol de espectador para covertirse en jugador.
+
 
 <img src="/src/timeline-03.gif" width=600>
 
