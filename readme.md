@@ -30,15 +30,22 @@ Se trata de un medio híbrido que combina y reconfigura formatos de medios conoc
 <img src="/src/selfiecity-saopaulo.gif" width=600>
 </a>
 
-
 > ↑ Representación de los selfies de Sao Paulo
+
+El apartado “Selfieexploratory” incluye una herramienta la cual nos permite interactuar con este medio híbrido entre datos y fotografías. Podemos manipular los parámetros para filtrar y recibir las imágenes correspondientes a nuestra selección: por ejemplo podemos pedir las selfies de rostros sonrientes inclinados hacia arriba de mujeres de Nueva York. Esta función reafirma el caracter de este nuevo medio por incluir en las estructuras de datos de las selfies sus valores correspondientes para posteriormente tratarlas desde estos valores.  
+
+<a href="http://selfiecity.net/selfiexploratory/t" target="_blank">
+<img src="/src/selfiecity-ui.gif" width=600>
+</a>
+
+> ↑ Selfieexploratory
 
 
 ## 2- Timeline
 
 Eko es una productora que ofrece un abanico variado de series interactivas e inventa una forma completamente nueva de entretenimiento. Es considerada la primera plataforma de vídeo interactivo del mundo. Sus programas permiten a los espectadores convertirse en participantes, brindándoles una capacidad sin precedentes para controlar e influir en las historias a medida que se desarrollan (http://eko.com).
 
-La serie Timeline nos adentra en la historia de Dee, una estudiante de secundaria cuyo teléfono misteriosamente adquiere la capacidad de predecir el futuro otorgándole el poder de visualizar publicaciones que informan los sucesos antes de que ocurran. 
+La serie Timeline nos adentra en la historia de Dee, una estudiante de secundaria cuyo teléfono misteriosamente adquiere la capacidad de predecir el futuro otorgándole el poder de visualizar publicaciones que le informan de sucesos antes de que ocurran. 
 
 <img src="/src/timeline-01.gif" width=600>
 
@@ -50,7 +57,7 @@ Durante las secuencias nos muestra sus conflictos internos, como su indecisión 
 
 > ↑ Interfaz de la interacción para elegir opciones.
 
-Por lo tanto, consideraremos este nuevo medio como híbrido entre cine e interacción a través de elecciones del usuario. Por tanto ofrece una experiencia más amplia que la de visualizar un vídeo convencional, nos atrapa por hacernos responsables del desarrollo de la historia, es interesante observar cómo con este nuevo medio surgido de la hibridez como usuarios adoptamos más implicación, al volvernos protagonistas es más probable que nos adentremos más a fondo en la trama y por tanto nos focalizamos con mayor nivel de recepción hacia sus contenidos.
+Por lo tanto, consideraremos este nuevo medio como híbrido entre cine e interacción a través de las elecciones del usuario. Por tanto ofrece una experiencia más amplia que la de visualizar un vídeo convencional, nos atrapa por hacernos responsables del desarrollo de la historia, es interesante observar cómo con este nuevo medio surgido de la hibridez adoptamos más implicación como usuarios, al volvernos protagonistas es más probable que nos adentremos más a fondo en la trama y por tanto nos focalizamos con mayor nivel de recepción hacia sus contenidos.
 
 Este medio híbrido se centra en ofrecernos un nueva manera de navegar e interaccionar con un formato de medios ya existentes. En este caso el tipo de medio en sí ni se modifica ni se combina con otros, sino que la hibridación se produce en la interfaz de usuario y las herramientas que facilita el proyecto, servicio o aplicación para trabajar con ese tipo de medios (Manovich, 2014).
 
